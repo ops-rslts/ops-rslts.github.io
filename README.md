@@ -1,10 +1,9 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Coming Soon</title>
-    <script type="text/javascript" src="https://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=XlPLXUYnAbJEnqWPhjsjX0pNUni2VbPsH2TIebigcTRhU94FRUkeXMuz-xkdaaWJ" charset="UTF-8"></script><style>
+<style>
         * {
             margin: 0;
             padding: 0;
